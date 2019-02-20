@@ -1,6 +1,12 @@
-MIT License
+# Project Materials
 
-Copyright (c) 2019 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />All non-software content in this project is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+# Code
+
+All code provided by the CMAS open-code platform is made available under the [MIT License](https://opensource.org/licenses/mit-license.html)
+
+Copyright (c) 2019 Theodoros Bechlivanis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
