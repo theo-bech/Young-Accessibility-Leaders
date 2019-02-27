@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct (:construction: coming soon, changes marked with bold italics :construction:)
+# Young Accessibility Leaders Code of Conduct (:construction: coming soon, changes marked with bold italics :construction:)
 
 ## Our Pledge
 
