@@ -1,4 +1,4 @@
-# Young Accessibility Leaders Code of Conduct (:construction: coming soon, changes marked with bold italics :construction:)
+# Young Accessibility Leaders Code of Conduct (:construction: coming soon :construction:)
 
 ## Our Pledge
 
@@ -27,7 +27,7 @@ Examples of unacceptable behavior by participants include:
  advances.
 * Trolling, insulting/derogatory comments, and personal or political attacks. 
 * Public or private harassment.
-* Publishing others' private information without explicit permission. ***This includes sharing a member's physical or electronic address or disclosing information about their disability, sexuality, or gender identity against their will.***
+* Publishing others' private information without explicit permission. ***This includes disclosing a member's physical or electronic address or sharing information about their disability, sexuality, or gender identity against their will.***
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting.
 
