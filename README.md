@@ -17,7 +17,7 @@ Under construction 🚧
 # Contributing
 
 Thanks for your interest in contributing to Young Accessibility Leaders! There are a lot of ways to contribute, but don't be intimidated! To get started, take a look at [CONTRIBUTING.md](
-        Young-Accessibility-Leaders/CONTRIBUTING.md
+        https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CONTRIBUTING.md
       ).
 
 # Participation Guidelines
