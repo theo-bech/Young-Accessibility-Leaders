@@ -15,7 +15,7 @@ Examples of behavior that contributes to creating a positive environment
 include:
 
 * Using welcoming and inclusive language ***(:construction: etiquette resources coming soon :construction:)***
-* ***Making sure contributions are in accessible formats and all communication is conducted through accessible channels. Please provide content warnings for disturbing or uncomfortable content.***
+* Making sure contributions are in accessible formats and all communication is conducted through accessible channels. Please provide content warnings for disturbing or uncomfortable content.
 * Being respectful of differing viewpoints and experiences. ***Ableism, homophobia, transphobia, racism, sexism, and other forms of bigotry will not be accommodated or tolerated as opinions.***
 * Gracefully accepting constructive criticism.
 * Focusing on what is best for the community.
@@ -27,7 +27,7 @@ Examples of unacceptable behavior by participants include:
  advances.
 * Trolling, insulting/derogatory comments, and personal or political attacks. 
 * Public or private harassment.
-* Publishing others' private information without explicit permission. ***This includes disclosing a member's physical or electronic address or sharing information about their disability, sexuality, or gender identity against their will.***
+* Publishing others' private information without explicit permission. This includes disclosing a member's physical or electronic address or sharing information about their disability, sexuality, or gender identity against their will.
 * Other conduct which could reasonably be considered inappropriate in a
  professional setting.
 
