@@ -1,4 +1,4 @@
-# Young Accessibility Leaders Code of Conduct (:construction: coming soon :construction:)
+# Young Accessibility Leaders Code of Conduct :construction:
 
 ## Our Pledge
 
