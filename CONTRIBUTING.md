@@ -17,15 +17,16 @@ This file will walk you through the basics of contributing to our cause. Here's 
   
   1. [Teachers in Secondary Education](#teachers-in-secondary-education)
   2. [People with Disabilities](#people-with-disabilities)
-  3. Disability Professionals
-  4. Developers
-  5. Other Contributors
+  3. [Disability Professionals](#disability-professionals)
+  4. [Developers](#developers)
+  5. [Other Contributors](#other-contributors)
 
-[Roadmap](https://github.com/theo-bech/Young-Accessibility-Leaders/issues/1)
+[Roadmap](#roadmap)
 
-General Guidelines & Etiquette
+[General Guidelines](#general-guidelines) 
 
 [References](#references)
+
 
 ## What is Young Accessibility Leaders?
 
@@ -61,20 +62,63 @@ We're looking for:
 
 ### Contributor Guidelines
 
-If you fit into the "Other Contributors" category, head on to the next section. If not, this section will explain how you can contribute in detail.
+This section will explain how you can contribute in detail.
 
-**Teachers in Secondary Education**
+### Teachers in Secondary Education
 
 You're our main user base, so your feedback is invaluable! Here's some things you can help us with:
 
 - **Evaluate the learning materials.** Are the presentations comprehensive? Are the teacher's guides helpful? Are the overall learning goals of each project relevant? All criticism is welcome so long as it's constructive!
+
 - **Suggest a new Project!** Projects are the core of Young Accessibility Leaders. You can help expand the curriculum by proposing a new Project, and you can even help design it (or simply design it and then submit it to our documentation). If you have a Project idea, you can start by opening a new issue. More instructions coming soon! :construction:
+
 - **Request a Translation.** Expanding the scope of Young Accessibility Leaders is one of our main goals. If you want a portion of the curriculum translated into your language, you can open an issue requesting it. You can also contribute by doing some translating yourself.
 
+### People with Disabilities
 
+If you're a person with a disability or run a disability organization, we value your insight a lot! Here's how you can contribute:
 
+- **Evaluate the learning materials.** Do the materials represent your disability and the accessibility problems you're facing? Do the Projects reflect real-world accessibility issues? Is there anything you think is missing?
 
+- **Suggest a new Project!** Have an idea about a Project that tackles an existing accessibility issue? Open an issue and let us know!
 
+- **Let us know if something is ableist.**  We're doing our best to disallow discriminatory language or imagery, but please let us know if we've overlooked something. 
+
+### Disability Professionals
+
+If you're a medical professional, someone who works with people with disabilities, or someone involved in Disability Studies, here are some ways you can help:
+
+- **Evaluate the learning materials.** Are the medical depictions of disability accurate? Did we overlook something ableist? 
+
+- **Evaluate Project impact.** How could a Project potentially help people with disabilities in a medical or community context?
+
+- **Suggest a new Project!** Have an idea about a Project that tackles an existing accessibility issue? Open an issue and let us know!
+
+### Developers
+
+Are you a developer, engineer, or maker? Take a look at how you can contribute:
+
+- **Check Project code.** Are we missing something? See a bug? Could the code be written better or made more comprehensible?
+
+- **Suggest a new Project!** Have an idea about a Project that tackles an existing accessibility issue? Open an issue and let us know! 
+
+### Other Contributors
+
+If you lack the specific skills required to do any of the above but still want to help, you can still help a lot by doing the following:
+
+- **Help us translate the curriculum!** In order to make Young Accessibility Leaders available to as many educators as possible, it needs to be translated into more languages than just English and Greek. 
+
+- **Help us with accessibility!** Providing alt-texts for images and closed captions for videos is very important, and anyone can do it.
+
+- **See something wrong? Tell us!** It can be a bug or just a typo. Open an issue and let us know. 
+
+## Roadmap
+
+Our Roadmap is where we catalogue our goals ("milestones") and the tasks we need to get out of the way to achieve them. You can find it [here](https://github.com/theo-bech/Young-Accessibility-Leaders/issues/1).
+
+## General Guidelines 
+
+If you're making any kind of contribution, there are certain rules you have to stick to. First, you have to adhere to our [code of conduct](https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md). If you're producing content, you have to make it accessible. Provide alt-text for images and closed captions for videos. A more detailed list of guidelines will be uploaded soon! :construction:
 
 ## References
 
