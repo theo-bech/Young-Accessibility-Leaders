@@ -38,9 +38,9 @@ To expand this curriculum, we need help from many different contributors! In the
 
 We're doing our best to keep the documentation jargon-free, but there are some technical terms you will inevitably come across. Here's a few:
 
-*Assistive Technology*: Any item, piece of equipment, or system that is used to increase, maintain, or improve functional capabilities of individuals with disabilities[^1].
+*Assistive Technology*: Any item, piece of equipment, or system that is used to increase, maintain, or improve functional capabilities of individuals with disabilities<sup>1</sup>.
 
-*Accessibility*: The ability of a product, service, or system to be accessed by people with disabilities[^2].
+*Accessibility*: The ability of a product, service, or system to be accessed by people with disabilities<sup>2</sup>.
 
 *Project*: The Young Accessibility Leaders curriculum consists of a series of creative exercises where students are tasked with creating an assistive device by following instructions. Those exercises will be called Projects (capitalized!) from here on. 
 
@@ -122,6 +122,6 @@ If you're making any kind of contribution, there are certain rules you have to s
 
 ## References
 
-[^1] *Adapted from the Assistive Technology Act 2004, USA Public Law.*
+<sup>1</sup>*Adapted from the Assistive Technology Act 2004, USA Public Law.*
 
-[^2] *Adapted from Henry, Shawn Lawton; Abou-Zahra, Shadi; Brewer, Judy (2014). The Role of Accessibility in a Universal Web. Proceeding W4A '14 Proceedings of the 11th Web for All Conference Article No. 17. ISBN 978-1-4503-2651-3.*
+<sup>2</sup>*Adapted from Henry, Shawn Lawton; Abou-Zahra, Shadi; Brewer, Judy (2014). The Role of Accessibility in a Universal Web. Proceeding W4A '14 Proceedings of the 11th Web for All Conference Article No. 17. ISBN 978-1-4503-2651-3.*
