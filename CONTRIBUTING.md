@@ -60,7 +60,7 @@ We're looking for:
 
 **Other Contributors** eager to help with translation, captioning, and other important stuff. 
 
-### Contributor Guidelines
+## Contributor Guidelines
 
 This section will explain how you can contribute in detail.
 
@@ -123,4 +123,5 @@ If you're making any kind of contribution, there are certain rules you have to s
 ## References
 
 [^1] *Adapted from the Assistive Technology Act 2004, USA Public Law.*
+
 [^2] *Adapted from Henry, Shawn Lawton; Abou-Zahra, Shadi; Brewer, Judy (2014). The Role of Accessibility in a Universal Web. Proceeding W4A '14 Proceedings of the 11th Web for All Conference Article No. 17. ISBN 978-1-4503-2651-3.*
