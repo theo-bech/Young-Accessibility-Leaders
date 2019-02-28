@@ -23,5 +23,5 @@ Thanks for your interest in contributing to Young Accessibility Leaders! There a
 # Participation Guidelines
 
 This project adheres to a [code of conduct](
-        Young-Accessibility-Leaders/CODE_OF_CONDUCT.md
+        https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md
       ). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [Theodore](https://github.com/theo-bech) at theodoros.bechlivanis@gmail.com.
