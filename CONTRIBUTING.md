@@ -11,7 +11,7 @@ This file will walk you through the basics of contributing to our cause. Here's 
 
 [Code of Conduct](https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md)
 
-[How Can I Contribute?](#how-can-i-contribute)
+[Who Can Contribute?](#who-can-contribute)
 
 [Contributor Guidelines](#contributor-guidelines)
   
@@ -44,7 +44,7 @@ We're doing our best to keep the documentation jargon-free, but there are some t
 
 *Project*: The Young Accessibility Leaders curriculum consists of a series of creative exercises where students are tasked with creating an assistive device by following instructions. Those exercises will be called Projects (capitalized!) from here on. 
 
-## How Can I Contribute?
+## Who Can Contribute?
 
 There are many different ways to help! Young Accessibility Leaders doubles as a platform where educators, disability professionals, and people with disabilities can collaborate, but we're also looking for skills anyone can have. 
 
