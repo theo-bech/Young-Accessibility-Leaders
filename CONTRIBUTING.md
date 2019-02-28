@@ -12,14 +12,14 @@ This file will walk you through the basics of contributing to our cause. Here's 
 [Code of Conduct](https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md)
 
 [How Can I Contribute?](#how-can-i-contribute)
-- [Contributor Profiles](#contributor-profiles)
-- [Contributor Guidelines](#contributor-guidelines)
+
+[Contributor Guidelines](#contributor-guidelines)
   
-  1. [Teachers in Secondary Education](#teachers-in-secondary-education)
-  2. [People with Disabilities](#people-with-disabilities)
-  3. [Disability Professionals](#disability-professionals)
-  4. [Developers](#developers)
-  5. [Other Contributors](#other-contributors)
+  - [Teachers in Secondary Education](#teachers-in-secondary-education)
+  - [People with Disabilities](#people-with-disabilities)
+  - [Disability Professionals](#disability-professionals)
+  - [Developers](#developers)
+  - [Other Contributors](#other-contributors)
 
 [Roadmap](#roadmap)
 
@@ -118,7 +118,7 @@ Our Roadmap is where we catalogue our goals ("milestones") and the tasks we need
 
 ## General Guidelines 
 
-If you're making any kind of contribution, there are certain rules you have to stick to. First, you have to adhere to our [code of conduct](https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md). If you're producing content, you have to make it accessible. Provide alt-text for images and closed captions for videos. A more detailed list of guidelines will be uploaded soon! :construction:
+If you're making any kind of contribution, there are certain rules you have to stick to. First, you have to adhere to our [code of conduct](https://github.com/theo-bech/Young-Accessibility-Leaders/blob/master/CODE_OF_CONDUCT.md). If you're producing content, you have to make it accessible. Provide alt-text for images, closed captions for videos, and content warnings for disturbing materials. A more detailed list of guidelines will be uploaded soon! :construction:
 
 ## References
 
