@@ -84,6 +84,8 @@ If you're a person with a disability or run a disability organization, we value 
 
 - **Let us know if something is ableist.**  We're doing our best to disallow discriminatory language or imagery, but please let us know if we've overlooked something. 
 
+- **Report an accessibility issue** in the materials or on the site.
+
 ### Disability Professionals
 
 If you're a medical professional, someone who works with people with disabilities, or someone involved in Disability Studies, here are some ways you can help:
@@ -94,6 +96,8 @@ If you're a medical professional, someone who works with people with disabilitie
 
 - **Suggest a new Project!** Have an idea about a Project that tackles an existing accessibility issue? Open an issue and let us know!
 
+- **Report an accessibility issue** in the materials or on the site.
+
 ### Developers
 
 Are you a developer, engineer, or maker? Take a look at how you can contribute:
@@ -101,6 +105,8 @@ Are you a developer, engineer, or maker? Take a look at how you can contribute:
 - **Check Project code.** Are we missing something? See a bug? Could the code be written better or made more comprehensible?
 
 - **Suggest a new Project!** Have an idea about a Project that tackles an existing accessibility issue? Open an issue and let us know! 
+
+- **Report an accessibility issue** in the materials or on the site.
 
 ### Other Contributors
 
