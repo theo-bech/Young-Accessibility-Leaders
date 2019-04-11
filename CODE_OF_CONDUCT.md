@@ -16,6 +16,7 @@ include:
 
 * Using welcoming and inclusive language ***(:construction: etiquette resources coming soon :construction:)***
 * Making sure contributions are in accessible formats and all communication is conducted through accessible channels. Please provide content warnings for disturbing or uncomfortable content.
+* Distributing tasks in an accessible way with regard to both quality and quantity when working in a team. 
 * Being respectful of differing viewpoints and experiences. ***Ableism, homophobia, transphobia, racism, sexism, and other forms of bigotry will not be accommodated or tolerated as opinions.***
 * Gracefully accepting constructive criticism.
 * Focusing on what is best for the community.
