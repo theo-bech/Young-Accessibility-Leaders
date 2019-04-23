@@ -6,7 +6,7 @@
 ; License:		  This code is licensed under the MIT License.
 ;
 ; Script Function:
-;	This is the code for the second projects in the Young Accessibility Leaders curriculum, "Mouse Stabilizer for people with Essential Tremor".
+;	This is the code for the first project in the Young Accessibility Leaders curriculum, "Mouse Stabilizer for people with Essential Tremor".
 ;
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
