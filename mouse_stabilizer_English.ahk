@@ -16,7 +16,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Loop 
 	{
 	MouseGetPos, xpos, ypos ;finds the position of the cursor
-	Sleep, 100
+	Sleep, 100 ;waits 0.1 seconds
 	MouseGetPos, x, y ;finds the position of the cursor after 0.1 seconds 
 	difx := abs(xpos - x) ;calculates x-axis displacement
 	dify := abs(ypos - y) ;calculates y-axis displacement
