@@ -16,7 +16,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 Loop 
 	{
 	MouseGetPos, xpos, ypos ;βρίσκει τη θέση του κέρσορα
-	Sleep, 100
+	Sleep, 100 ;περιμένει 0.1 δευτερόλεπτα
 	MouseGetPos, x, y ;βρίσκει τη θέση του κέρσορα μετά από 0.1 δευτερόλεπτα
 	difx := abs(xpos - x) ;υπολογίζει τη μετατόπιση στον άξονα x
 	dify := abs(ypos - y) ;υπολιγίζει τη μετατόπιση στον άξονα y
