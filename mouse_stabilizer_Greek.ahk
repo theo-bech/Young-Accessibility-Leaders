@@ -6,7 +6,7 @@
 ; License:		  This code is licensed under the MIT License.
 ;
 ; Script Function:
-;	Το παρόν αρχείο περιλαμβάνει τον κώδικα για το δεύτερο project του προγράμματος Young Accessibility Leaders, "Απλός Σταθεροποιητής Ποντικιού για Άτομα με Ιδιοπαθή Τρόμο"
+;	Το παρόν αρχείο περιλαμβάνει τον κώδικα για το πρώτο project του προγράμματος Young Accessibility Leaders, "Απλός Σταθεροποιητής Ποντικιού για Άτομα με Ιδιοπαθή Τρόμο"
 ;
 
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
