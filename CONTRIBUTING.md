@@ -70,7 +70,7 @@ You're our main user base, so your feedback is invaluable! Here's some things yo
 
 - **Evaluate the learning materials.** Are the presentations comprehensive? Are the teacher's guides helpful? Are the overall learning goals of each project relevant? All criticism is welcome so long as it's constructive!
 
-- **Suggest a new Project!** Projects are the core of Young Accessibility Leaders. You can help expand the curriculum by proposing a new Project, and you can even help design it (or simply design it and then submit it to our documentation). If you have a Project idea, you can start by opening a new issue. More instructions coming soon! :construction:
+- **Suggest a new Project!** Projects are the core of Young Accessibility Leaders. You can help expand the curriculum by proposing a new Project, and you can even help design it (or simply design it and then submit it to our documentation). If you have a Project idea, you can start by opening a new issue. More instructions on our [wiki](https://github.com/theo-bech/Young-Accessibility-Leaders/wiki).
 
 - **Request a Translation.** Expanding the scope of Young Accessibility Leaders is one of our main goals. If you want a portion of the curriculum translated into your language, you can open an issue requesting it. You can also contribute by doing some translating yourself.
 
