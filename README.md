@@ -16,6 +16,7 @@ To get a sense of what we're working on, check out our [Roadmap](https://github.
 
 Other things to get you started: 
 
+- Look for construction signs (:construction:)! That's where work needs to be done.
 - Browse through the code and the [wiki](https://github.com/theo-bech/Young-Accessibility-Leaders/wiki) and leave some feedback!
 - Help us add alt-texts to our materials! (*Instructions coming soon!* :construction:)
 - Get the word out! We're looking for more contributors at the moment.
