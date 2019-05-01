@@ -1,4 +1,4 @@
-# Young Accessibility Leaders Contributor Guidelines :construction:
+# Young Accessibility Leaders Contributor Guidelines 
 
 Thank you for taking the time to contribute to Young Accessibility Leaders! :tada:
 This file will walk you through the basics of contributing to our cause. Here's a neat table of contents to help you navigate:
@@ -62,7 +62,7 @@ We're looking for:
 
 ## Contributor Guidelines
 
-This section will explain how you can contribute in detail.
+This section will explain how you can contribute in detail. You can give feedback on our [feedback form](https://forms.gle/RnUYGa7usJgHoa5E8).
 
 ### Teachers in Secondary Education
 
